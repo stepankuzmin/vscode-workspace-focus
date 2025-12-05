@@ -1,0 +1,5 @@
+out/**
+*.vsix
+.vscode/**
+.claude/**
+node_modules/**
