@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-node@v6
         with:
           cache: 'npm'
-          node-version: 'lts'
+          node-version: 'latest'
           cache-dependency-path: 'package-lock.json'
 
       - run: npm ci
