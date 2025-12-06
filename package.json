@@ -2,7 +2,7 @@
   "name": "workspace-focus",
   "displayName": "Workspace Focus",
   "description": "Focus on a folder by creating a workspace file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "StepanKuzmin",
   "repository": {
     "type": "git",
