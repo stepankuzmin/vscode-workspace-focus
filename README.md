@@ -12,10 +12,14 @@ The workspace file is named after your current git branch (e.g., `feature-auth.c
 
 ## Installation
 
+### From Marketplace
+
+[Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=StepanKuzmin.workspace-focus)
+
 ### From VSIX
 
 ```sh
-code --install-extension workspace-focus-0.0.1.vsix
+code --install-extension workspace-focus-0.0.2.vsix
 ```
 
 ### From Source
@@ -24,7 +28,7 @@ code --install-extension workspace-focus-0.0.1.vsix
 npm install
 npm run compile
 npm run package
-code --install-extension workspace-focus-0.0.1.vsix
+code --install-extension workspace-focus-0.0.2.vsix
 ```
 
 ## Requirements
